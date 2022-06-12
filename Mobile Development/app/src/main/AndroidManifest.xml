@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Flood"
+        tools:replace="android:theme"
+        tools:targetApi="31">
+        <activity
+            android:name=".warn_mrn"
+            android:exported="false" />
+        <activity
+            android:name=".warn_fls"
+            android:exported="false" />
+        <activity
+            android:name=".warn_jm"
+            android:exported="false" />
+        <activity
+            android:name=".warn_is"
+            android:exported="false" />
+        <activity
+            android:name=".warn_mang"
+            android:exported="false" />
+        <activity
+            android:name=".warn_dpk"
+            android:exported="false" />
+        <activity
+            android:name=".warn_katulampa"
+            android:exported="false" />
+        <activity
+            android:name=".warn_home"
+            android:exported="false" />
+        <activity
+            android:name=".data_mrn"
+            android:exported="false" />
+        <activity
+            android:name=".data_jm"
+            android:exported="false" />
+        <activity
+            android:name=".data_fls"
+            android:exported="false" />
+        <activity
+            android:name=".data_istiqlal"
+            android:exported="false" />
+        <activity
+            android:name=".data_manggarai"
+            android:exported="false" />
+        <activity
+            android:name=".data_posdepok"
+            android:exported="false" />
+        <activity
+            android:name=".data_katulampa"
+            android:exported="false" />
+        <activity
+            android:name=".upload"
+            android:exported="false" />
+        <activity
+            android:name=".staff_login"
+            android:exported="false" />
+        <activity
+            android:name=".home_screen"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

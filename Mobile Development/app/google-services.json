@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198859499766",
+    "project_id": "banjir-jegardah",
+    "storage_bucket": "banjir-jegardah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198859499766:android:d782da78bbe71640e924d7",
+        "android_client_info": {
+          "package_name": "com.example.flood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198859499766-m400sv1ah3naldbmtipkklbad1uq8prj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_XVKgnSEGAIiAqS3RKw5WLq2jAploYfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198859499766-m400sv1ah3naldbmtipkklbad1uq8prj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

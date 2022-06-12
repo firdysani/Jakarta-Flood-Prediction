@@ -1,0 +1,14 @@
+buildscript {
+    repositories {
+        google()
+    }
+}
+//plugin hapus
+plugins {
+    id 'com.android.application' version '7.3.0-beta02' apply false
+    id 'com.android.library' version '7.3.0-beta02' apply false
+}
+
+task clean(type:Delete){
+    delete rootProject.buildDir
+}

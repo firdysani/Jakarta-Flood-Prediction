@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_coba.xml" value="0.2" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_data_fls.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_data_istiqlal.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_data_jm.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_data_katulampa.xml" value="0.2" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_data_manggarai.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_data_mrn.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_data_posdepok.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_home_screen.xml" value="0.2" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_inicoba.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_ml_cam.xml" value="0.264" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_staff_login.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_staff_loginfix.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_upload.xml" value="0.264" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_warn_dpk.xml" value="0.2" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_warn_fls.xml" value="0.2" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_warn_home.xml" value="0.2" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_warn_is.xml" value="0.2" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_warn_jm.xml" value="0.2" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_warn_katulampa.xml" value="0.264" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_warn_mang.xml" value="0.264" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/app/src/main/res/layout/activity_warn_mrn.xml" value="0.16" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/klasifikasi/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Firdy/AndroidStudioProjects/Flood/klasifikasi/src/main/res/layout/klasifikasi_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
