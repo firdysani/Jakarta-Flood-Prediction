@@ -24,6 +24,7 @@ The machine learning part of this application is using 'Convolutional Neural Net
 For the mobile development part, at the moment this application is only available for android. We use java as our programming language inside AndroidStudio. From the machine learning part we export our model as tflite file so it could easily be read from android studio.
 All user interface were made inside figma, and some of the icons are created using Adobe Illustrator.
 We use Redmi Note10 for our MD model, so there are still shortcomings in the display if you open it from the type of cell phone whose pixel size is much different.
+*At this stage everyone can login without entering email or password, later this feature is only available for staff working at Jakarta FloogGate
 
 # CLOUD
 We are using Google Firebase to upload our result from the mobile app and import it to a different activities inside AndroidStudio. However, because lack of resources the cloud part often crashes, so it's still under development.
